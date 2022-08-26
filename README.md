@@ -3,7 +3,7 @@
 
 - 📞 How to reach me **inzaghi.moniaga@gmail.com**
 
-- 💾 Checkout my Project [Inzaghi.tech](Inzaghi.tech)
+- 💾 Checkout my Project [https://inzaghi.tech/](https://inzaghi.tech/)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
