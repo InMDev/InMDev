@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
 <h3 align="center">Love Matcha</h3>
 
-- 📞 How to reach me **inzaghi.moniaga@gmail.com**
+- 📞 How to reach me **inzaghi.moniaga@ubc.ca**
 
 - 💾 Checkout my Project [https://inzaghi.tech/](https://inzaghi.tech/)
 
