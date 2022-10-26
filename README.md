@@ -3,7 +3,9 @@
 
 - 📞 How to reach me **inzaghi.moniaga@ubc.ca**
 
-- 💾 Checkout my Project [https://inzaghi.tech/](https://inzaghi.tech/)
+- 💾 Checkout my Project [
+inzaghi.netlify.app](
+inzaghi.netlify.app)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
