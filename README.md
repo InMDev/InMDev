@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
-<h3 align="center">Love Matcha</h3>
+<h3 align="center">XR Developer @ EdTech, UBC Faculty Of Medicine</h3>
 
 - 📞 How to reach me **inzaghi.moniaga@ubc.ca**
-
-- 💾 Checkout my Project [
-inzaghi.netlify.app](
-inzaghi.netlify.app)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
