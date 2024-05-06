@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
-<h3 align="center">Lead XR Developer @ EdTech, UBC Faculty Of Medicine</h3>
-
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
