@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://inzaghi.me/#work](https://inzaghi.me/#work)
 
-- ⚡ Fun fact **I used to be in Engineering & I had some experience working with 3D printers, laser cutter, injection moulding, machinery, micro-controllers, circuits & PCB design!**
+- ⚡ Fun fact **I used to study Engineering & I had some experience working with 3D printers, laser cutter, injection moulding, machinery, micro-controllers, circuits & PCB design!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
