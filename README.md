@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
-<h3 align="center">Passionate in building VR, AR & Reinforcement Learning Algorithms</h3>
+<h3 align="center">I build VR, AR, Web apps & Reinforcement Learning Algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inmdev&label=Profile%20views&color=0e75b6&style=flat" alt="inmdev" /> </p>
 
