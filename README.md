@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
-<h3 align="center">I build VR, AR, Web apps & Reinforcement Learning Algorithms</h3>
+<h3 align="center">I build with a passion for creating reliable, scalable, maintainable, and robust applications. What I can offer:</h3>
+
+- VR & AR Development 🥽
+- Reinforcement Learning / Deep Learning Development 🤖
+- Data pipeline / Database design🗄️
+- Data Reports 📈
+- Web Development 🌐
+- Desktop apps Development 🖥️
+- Game Development 🎮
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inmdev&label=Profile%20views&color=0e75b6&style=flat" alt="inmdev" /> </p>
 
