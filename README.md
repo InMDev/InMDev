@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
-<h3 align="center">I build with a passion for creating reliable, scalable, maintainable, and robust applications. What I can offer:</h3>
+<h3 align="center">I build reliable, scalable, & maintainable applications. What I can offer:</h3>
 
 - VR & AR Development 🥽
 - Reinforcement Learning / Deep Learning Development 🤖
