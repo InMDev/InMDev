@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
-<h3 align="center">I build reliable, scalable, & maintainable applications. What I can offer:</h3>
+<h3 align="center">I'm a Data Analyst Intern @ Klue & What I've done in the past:</h3>
 
 - VR & AR Development 🥽
 - Reinforcement Learning / Deep Learning Development 🤖
