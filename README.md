@@ -12,9 +12,7 @@
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inmdev&label=Profile%20views&color=0e75b6&style=flat" alt="inmdev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://inzaghi.me/#project](https://inzaghi.me/#project)
-
-- 📄 Know about my experiences [https://inzaghi.me/#work](https://inzaghi.me/#work)
+- 👨‍💻 All of my projects are available at [https://www.inzaghimoniaga.com/#project](https://www.inzaghimoniaga.com/#project)
 
 - ⚡ Fun fact **I used to study Engineering & I had some experience working with 3D printers, laser cutter, injection moulding, lathe, micro-controllers, basic circuitry & PCB design!**
 
