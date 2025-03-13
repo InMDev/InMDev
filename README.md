@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineering Intern @ UBC Robotics and Control Lab & What I've done in the past:</h3>
 
 - VR & AR Development 🥽
-- Reinforcement Learning / Deep Learning Development 🤖
+- Reinforcement Learning & Computer Vision Research 🤖
 - Data pipeline / Database design🗄️
 - Web Development 🌐
 - Desktop apps Development 🖥️
