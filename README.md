@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
 
 
-<h3 align="center">My Acedemic Interest:</h3>
+<h3>My Acedemic Interest:</h3>
 
 - Reinforcement Learning & Computer Vision 🤖
 - Interpretability and Visualization 🔍
 
-<h3 align="center">My Personal Interest:</h3>
+<h3>My Personal Interest:</h3>
 
 - Virtual Reality 🥽
 - Augmented Reality 📱
