@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Inzaghi</h1>
-<h3 align="center">I'm a Software Engineering Intern @ UBC Robotics and Control Lab & What I've done in the past:</h3>
 
-- VR & AR Development 🥽
-- Reinforcement Learning & Computer Vision Research 🤖
-- Data pipeline / Database design🗄️
-- Web Development 🌐
-- Desktop apps Development 🖥️
+
+<h3 align="center">My Acedemic Interest:</h3>
+- Reinforcement Learning & Computer Vision 🤖
+- Interpretability and Visualization 🔍
+
+<h3 align="center">My Personal Interest:</h3>
+
+- Virtual Reality 🥽
+- Augmented Reality 📱
 - Game Development 🎮
-
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inmdev&label=Profile%20views&color=0e75b6&style=flat" alt="inmdev" /> </p>
 
