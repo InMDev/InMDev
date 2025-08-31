@@ -3,13 +3,13 @@
 
 <h3>My Acedemic Interest:</h3>
 
-- Reinforcement Learning & Computer Vision 🤖
+- Reinforcement Learning & Computer Vision 👀
 - Interpretability and Visualization 🔍
 
 <h3>My Personal Interest:</h3>
 
 - Virtual Reality 🥽
-- Augmented Reality 📱
+- Robotics 🤖
 - Game Development 🎮
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inmdev&label=Profile%20views&color=0e75b6&style=flat" alt="inmdev" /> </p>
