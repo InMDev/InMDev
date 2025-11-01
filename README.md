@@ -12,7 +12,7 @@
 - Robotics 🤖
 - Game Development 🎮
   
-<img src="parking.gif" alt="Genetic Algorithm Self Parking" width="300"/> <img src="robot.gif" alt="Panda Reach" width="300"/> <img src="soccer.gif" alt="Panda Reach" width="300"/>
+<img src="parking.gif" alt="Genetic Algorithm Self Parking" width="300"/> <img src="robot.gif" alt="Panda Reach" width="300"/> <img src="soccer.gif" alt="AI playing Soccer" width="300"/> <img src="taxi.gif" alt="Taxi Q-Learning" width="300"/>
 
 
 --- 
