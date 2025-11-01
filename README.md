@@ -3,8 +3,8 @@
 
 <h3>My Acedemic Interest:</h3>
 
-- Reinforcement Learning & Computer Vision 👀
-- Interpretability and Visualization 🔍
+- Computer Vision & Reinforcement Learning 👀
+- Human-Computer Interaction 🔍
 
 <h3>My Personal Interest:</h3>
 
