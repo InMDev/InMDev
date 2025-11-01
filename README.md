@@ -26,7 +26,7 @@
 
 | Academic Focus | Personal Passions |
 | :--- | :--- |
-| 👀 Computer Vision & Reinforcement Learning | 🥽 Virtual Reality |
+  | 👀 Computer Vision  | 🥽 Virtual Reality | 🐾 Reinforcement Learning
 | 🔍 Human-Computer Interaction | 🤖 Robotics |
 | | 🎮 Game Development |
 
