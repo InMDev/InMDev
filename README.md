@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inzaghi <img src="bmo.gif" alt="Hellow" width="70"/></h1>
 <p align="center">
-  A <strong>Math</strong> student at <strong>UBC</strong> with a background in Manufacturing Engineering and a passion for computer vision, robotics, and human-computer interaction.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/inzaghi-moniaga/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Inzaghi%20Moniaga-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
