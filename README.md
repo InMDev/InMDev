@@ -20,17 +20,15 @@
 * 🔧 Previously: SDE @ Amazon, UBC Robotics & Control Lab, NC4 Lab, UBC Medicine
 * 🔬 Research Experience: Computer Vision (Object Pose Tracking), Virtual Reality (VR) & Augmented Reality (AR)
 
-<br>
+#### 🎓 Academic Focus
+* 👀 Computer Vision
+* 🐾 Reinforcement Learning
+* 🔍 Human-Computer Interaction
 
-### 🚀 Core Interests
-
-| Academic Focus | Personal Passions |
-| :--- | :--- |
-  | 👀 Computer Vision  | 🥽 Virtual Reality | 🐾 Reinforcement Learning
-| 🔍 Human-Computer Interaction | 🤖 Robotics |
-| | 🎮 Game Development |
-
-<br>
+#### 🌟 Personal Passions
+* 🥽 Virtual Reality
+* 🤖 Robotics
+* 🎮 Game Development
 
 ### 💻 Featured Projects
 
